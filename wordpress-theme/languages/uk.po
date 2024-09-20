@@ -1,0 +1,202 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Noiceland\n"
+"POT-Creation-Date: 2022-10-18 20:01+0300\n"
+"PO-Revision-Date: 2022-10-18 20:02+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_attr_e;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:8
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "На жаль! Ця сторінка не існує."
+
+#: 404.php:10
+msgid "It looks like nothing was found at this location."
+msgstr "Схоже, що нічого не було знайдено по вашому запиту."
+
+#: functions.php:28
+msgid "Header menu"
+msgstr "Меню у шапці"
+
+#: functions.php:35 functions.php:47
+msgid "Services"
+msgstr "Послуги"
+
+#: functions.php:36
+msgid "Service"
+msgstr "Послуга"
+
+#: functions.php:37
+msgid "Add service"
+msgstr "Додати послугу"
+
+#: functions.php:38
+msgid "Adding service"
+msgstr "Додавання послуги"
+
+#: functions.php:39
+msgid "Edit service"
+msgstr "Редагувати послугу"
+
+#: functions.php:40
+msgid "New service"
+msgstr "Нова послуга"
+
+#: functions.php:41
+msgid "See service"
+msgstr "Дивитися послугу"
+
+#: functions.php:42
+msgid "Search service"
+msgstr "Шукати послугу"
+
+#: functions.php:43
+msgid "Services not found"
+msgstr "Послуг не знайдено"
+
+#: functions.php:44
+msgid "Services not found in trash"
+msgstr "Послуг не знайдено у кошику"
+
+#: functions.php:46
+msgid "All services"
+msgstr "Всі послуги"
+
+#: functions.php:66 functions.php:77 functions.php:78
+msgid "Posts"
+msgstr "Статті"
+
+#: functions.php:67
+msgid "Post"
+msgstr "Стаття"
+
+#: functions.php:68
+msgid "Add post"
+msgstr "Додати статтю"
+
+#: functions.php:69
+msgid "Adding post"
+msgstr "Додавання статті"
+
+#: functions.php:70
+msgid "Edit post"
+msgstr "Редагувати статтю"
+
+#: functions.php:71
+msgid "New post"
+msgstr "Нова стаття"
+
+#: functions.php:72
+msgid "See post"
+msgstr "Дивитися статтю"
+
+#: functions.php:73
+msgid "Search post"
+msgstr "Шукати статтю"
+
+#: functions.php:74
+msgid "Posts not found"
+msgstr "Статей не знайдено"
+
+#: functions.php:75
+msgid "Posts not found in trash"
+msgstr "Статей не знайдено у кошику"
+
+#: functions.php:76
+msgid "All posts"
+msgstr "Усі статті"
+
+#: inc/template-tags.php:19
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Опубліковано в %s"
+
+#: inc/template-tags.php:31
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr "автор: %s"
+
+#: inc/template-tags.php:89
+msgid "Prev"
+msgstr "Назад"
+
+#: inc/template-tags.php:90
+msgid "Next"
+msgstr "Далі"
+
+#: single.php:17
+msgid "Previous:"
+msgstr "Попередній:"
+
+#: single.php:18
+msgid "Next:"
+msgstr "Наступний:"
+
+#: template-parts/content-none.php:4
+msgid "Sorry, but nothing matched your search terms."
+msgstr "Вибачте, але за вашими пошуковими запитами нічого не знайдено."
+
+#: template-parts/content-none.php:7
+msgid "Please try again with some different keywords."
+msgstr "Будь ласка, спробуйте ще раз з іншими ключовими словами."
+
+#: template-parts/content-none.php:11
+#, php-format
+msgid "No posts in category: %s"
+msgstr "Постів у категорії немає: %s"
+
+#: template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr "Нічого не знайдено"
+
+#: template-parts/content-short.php:26 template-parts/content.php:50
+msgid "The end of post"
+msgstr "Кінець статті"
+
+#: template-parts/content.php:29
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Читати далі<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/content.php:42
+msgid "Pages:"
+msgstr "Сторінки:"
+
+#~ msgid "Most Used Categories"
+#~ msgstr "Найпоширеніші категорії"
+
+#, php-format
+#~ msgid "Try looking in the monthly archives. %1$s"
+#~ msgstr "Спробуйте переглянути щомісячні архіви. %1$s"
+
+#, php-format
+#~ msgid "One thought on &ldquo;%1$s&rdquo;"
+#~ msgstr "Один коментар до &ldquo;%1$s&rdquo;"
+
+#, php-format
+#~ msgctxt "comments title"
+#~ msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+#~ msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+#~ msgstr[0] "%1$s коментар до &ldquo;%2$s&rdquo;"
+#~ msgstr[1] "%1$s комментарі к &ldquo;%2$s&rdquo;"
+#~ msgstr[2] "%1$s комментарів к &ldquo;%2$s&rdquo;"
+
+#~ msgid "Comments are closed."
+#~ msgstr "Коментарі закриті."
+
+#~ msgid "Primary"
+#~ msgstr "Основна"

@@ -1,0 +1,206 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Noiceland\n"
+"POT-Creation-Date: 2022-10-18 20:02+0300\n"
+"PO-Revision-Date: 2022-10-18 20:04+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_attr_e;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:8
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Упс! Эта страница не найдена."
+
+#: 404.php:10
+msgid "It looks like nothing was found at this location."
+msgstr "Похоже, что такой страницы попросту не существует."
+
+#: functions.php:28
+msgid "Header menu"
+msgstr "Меню в шапке"
+
+#: functions.php:35 functions.php:47
+msgid "Services"
+msgstr "Услуги"
+
+#: functions.php:36
+msgid "Service"
+msgstr "Услуга"
+
+#: functions.php:37
+msgid "Add service"
+msgstr "Добавить услугу"
+
+#: functions.php:38
+msgid "Adding service"
+msgstr "Добавление услуги"
+
+#: functions.php:39
+msgid "Edit service"
+msgstr "Редактировать услугу"
+
+#: functions.php:40
+msgid "New service"
+msgstr "Новая услуга"
+
+#: functions.php:41
+msgid "See service"
+msgstr "Смотреть услугу"
+
+#: functions.php:42
+msgid "Search service"
+msgstr "Искать услугу"
+
+#: functions.php:43
+msgid "Services not found"
+msgstr "Услуги не найдены"
+
+#: functions.php:44
+msgid "Services not found in trash"
+msgstr "Услуги не найдены в корзине"
+
+#: functions.php:46
+msgid "All services"
+msgstr "Все услуги"
+
+#: functions.php:66 functions.php:77 functions.php:78
+msgid "Posts"
+msgstr "Записи"
+
+#: functions.php:67
+msgid "Post"
+msgstr "Запись"
+
+#: functions.php:68
+msgid "Add post"
+msgstr "Добавить запись"
+
+#: functions.php:69
+msgid "Adding post"
+msgstr "Добавление записи"
+
+#: functions.php:70
+msgid "Edit post"
+msgstr "Редактировать запись"
+
+#: functions.php:71
+msgid "New post"
+msgstr "Новая запись"
+
+#: functions.php:72
+msgid "See post"
+msgstr "Смотреть запись"
+
+#: functions.php:73
+msgid "Search post"
+msgstr "Искать записи"
+
+#: functions.php:74
+msgid "Posts not found"
+msgstr "Записи не найдены"
+
+#: functions.php:75
+msgid "Posts not found in trash"
+msgstr "Записи не найдены в корзине"
+
+#: functions.php:76
+msgid "All posts"
+msgstr "Все записи"
+
+#: inc/template-tags.php:19
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Опубликовано %s"
+
+#: inc/template-tags.php:31
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr "автор: %s"
+
+#: inc/template-tags.php:89
+msgid "Prev"
+msgstr "Назад"
+
+#: inc/template-tags.php:90
+msgid "Next"
+msgstr "Далее"
+
+#: single.php:17
+msgid "Previous:"
+msgstr "Назад:"
+
+#: single.php:18
+msgid "Next:"
+msgstr "Далее:"
+
+#: template-parts/content-none.php:4
+msgid "Sorry, but nothing matched your search terms."
+msgstr "Извините, но ничто не соответствовало вашему поисковому запросу."
+
+#: template-parts/content-none.php:7
+msgid "Please try again with some different keywords."
+msgstr "Повторите попытку с помощью других ключевых слов."
+
+#: template-parts/content-none.php:11
+#, php-format
+msgid "No posts in category: %s"
+msgstr "Нет записей в рубрике: %s"
+
+#: template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: template-parts/content-short.php:26 template-parts/content.php:50
+msgid "The end of post"
+msgstr "Конец поста"
+
+#: template-parts/content.php:29
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Продолжить чтение<span class=\"screen-reader-text\"> \"%s\" </span>"
+
+#: template-parts/content.php:42
+msgid "Pages:"
+msgstr "Страницы:"
+
+#~ msgid "Most Used Categories"
+#~ msgstr "Часто используемые категории"
+
+#, php-format
+#~ msgid "Try looking in the monthly archives. %1$s"
+#~ msgstr "Попробуйте посмотреть в ежемесячных архивах. %1$s"
+
+#, php-format
+#~ msgid "One thought on &ldquo;%1$s&rdquo;"
+#~ msgstr "Один комментарий к &ldquo;%1$s&rdquo;"
+
+#, php-format
+#~ msgctxt "comments title"
+#~ msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+#~ msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+#~ msgstr[0] "%1$s комментарий к &ldquo;%2$s&rdquo;"
+#~ msgstr[1] "%1$s комментария к &ldquo;%2$s&rdquo;"
+#~ msgstr[2] "%1$s комментариев к &ldquo;%2$s&rdquo;"
+
+#~ msgid "Comments are closed."
+#~ msgstr "Комментарии отключены."
+
+#~ msgid "Primary"
+#~ msgstr "Основной"
+
+#, php-format
+#~ msgid "Search Results for: %s"
+#~ msgstr "Результаты Поиска для: %s"
